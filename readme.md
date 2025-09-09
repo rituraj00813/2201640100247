@@ -97,4 +97,6 @@ It allows shortening of URLs (with optional validity and shortcode), and also sh
 2. Location is captured using geolocation (if denied, marked as "denied").
 3. Data is not persisted to a server, only browser localStorage.
 
-![screenshot]("./Copy/Screenshot 2025-09-08 140405.png")
+![Screenshot](Copy/Screenshot%202025-09-08%20140405.png)
+
+![ScreenShot](<Screenshot 2025-09-09 110624.png>)
